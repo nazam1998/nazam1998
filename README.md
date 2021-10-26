@@ -5,7 +5,7 @@ I am a Full Stack Web Developer and AWS Cloud Engineer. I am also working with D
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazam1998)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazam1998&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazam1998&layout=compact&range=last_year)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nazam1998/nazam1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
