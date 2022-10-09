@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I am a Full Stack Web Developer and AWS Cloud Engineer. I am also working with DevOps tools on AWS Cloud.
+### I am a Full Stack Web & Mobile Developer who loves bugs.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazam1998&show_icons=true&theme=bear)
 
