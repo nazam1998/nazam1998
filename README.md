@@ -15,9 +15,9 @@ With 3+ years of experience, I focus on writing clean, maintainable code and cre
 * ⚛️ React & React Native
 * 📱 Expo (Managed & native extensions)
 * 🟦 TypeScript & Modern JavaScript
-* 🎨 SCSS / Component-based UI architecture
+* 🎨 TailWind / CSS / Component-based UI architecture
 * 🔌 REST & GraphQL API integration
-* ☁️ AWS (EC2, S3, IAM, CloudFormation)
+* ☁️ AWS & Supabase
 * 🐳 Docker & Git-based workflows
 
 ---
